@@ -4,4 +4,7 @@
 * Also Computing the Sick Leave% during these three months.
 * Resulted in getting the insight on which day of the week most Sick Leaves are applied by the employees to understand the reason behind it.
 * Build the Dashboard for the HR to better visualise the data from this report.
-![image](https://github.com/user-attachments/assets/f88ff722-9fa4-422f-a74d-54268b556ae5)
+
+
+![image](https://github.com/user-attachments/assets/d68537f1-9155-42d1-bf94-bcd6bc2fb11e)
+
